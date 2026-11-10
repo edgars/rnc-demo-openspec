@@ -1,0 +1,6 @@
+schema: spec-driven
+created: 2026-11-10
+goal: "Fundação do projeto — Mundial"
+affected_areas:
+  - app-shell
+  - locale-and-formats
